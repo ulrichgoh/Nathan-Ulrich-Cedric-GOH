@@ -1,3 +1,5 @@
 # Nathan-Ulrich-Cedric-GOH
-**project overview**
+**PROJECT OVERVIEW**
+**METHOD**
+**TOOLS**
 
